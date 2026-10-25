@@ -2,10 +2,10 @@
   "name": "jevflip",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "bin": {
     "jevflip": "./dist/cli.js"
   },
+  "type": "module",
   "scripts": {
     "build": "tsc",
     "test": "vitest run",
